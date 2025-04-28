@@ -32,7 +32,7 @@ Users can search for any city and view current weather details such as temperatu
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/weather-dashboard.git
+git clone https://github.com/hschinmayabharadwaj/weather_dashboard.git
 cd weather-dashboard
 ```
 
